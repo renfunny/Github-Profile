@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renfunny" alt="renfunny" /></a> </p>
 
-- 🌱 I’m currently learning **Modern JavaScript, React.js, Python, AWS**
+- 🌱 I’m currently learning **React Native, and Python**
 
 - 📫 How to reach me **ren99cordova@gmail.com**
 
