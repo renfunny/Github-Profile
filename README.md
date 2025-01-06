@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Renato Cordova</h1>
-<h3 align="center">A FullStack-Developer eager to learn and grow!</h3>
+<h3 align="center">A Developer eager to continue learning and growing!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renfunny&label=Profile%20views&color=0e75b6&style=flat" alt="renfunny" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renfunny" alt="renfunny" /></a> </p>
 
-- 🌱 I’m currently learning **React Native, and Python**
+- 🌱 I’m currently learning **Java, and Swift**
 
 - 📫 How to reach me **ren99cordova@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1zOuVw_R5GGMZCjGyPinecK-xTl95LR4w_HkXkaNvJJU/edit?usp=sharing](https://docs.google.com/document/d/1zOuVw_R5GGMZCjGyPinecK-xTl95LR4w_HkXkaNvJJU/edit?usp=sharing)
+- 📄 Know about my experiences [*Resume*]([https://docs.google.com/document/d/1zOuVw_R5GGMZCjGyPinecK-xTl95LR4w_HkXkaNvJJU/edit?usp=sharing](https://docs.google.com/document/d/1TE5qwAf4GVjmIj_0IdRwnbPKj5IVkKrXKgKqxtPnpaU/edit?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/renato cordova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renato cordova" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/renatocanlearnit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renato cordova" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
